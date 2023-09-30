@@ -9,7 +9,7 @@
 :point_right: 보안 코드 변경 이력 확인 시에도 유용하게 사용할 수 있습니다.<br>
 
 # 사용 예제
-:question: Smali 코드 추출은 <code>"APK Eazy Tool"</code> or <code>apktool</code>을 사용하면 됩니다.
+:question: Smali 코드 추출은 <code>APK Eazy Tool</code> or <code>apktool</code>을 사용하면 됩니다.
 
 1. 기준이 되는 원본 smali 코드들이 위치한 디렉터리와 변경된 smali 코드들이 위치한 디렉터리를 선택해주세요.
 <p>
