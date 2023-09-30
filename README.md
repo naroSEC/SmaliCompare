@@ -11,4 +11,9 @@
     <tr>
   </table>
 </p>
-2. 
+
+2. 디렉터리 선택이 다 되었다면, 시작 버튼을 클릭해주세요.
+<p align="center">
+  <img src="https://github.com/naroSEC/Anditer/assets/89144246/668d001f-aae0-44ce-9922-6c6bf6eaf136">
+</p>
+3. 
