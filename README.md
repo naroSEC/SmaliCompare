@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=naroSEC&fontSize=90" />
 :smiley:기존 Android 앱과 변조된 또는 추가된 Android 앱의 Smali 코드를 비교하여 삭제된 Smali 파일과 변경된 Smali 코드를 확인할 수 있습니다.
 
-# 활용
-:point_right: Android 디지털 포렌식 CTF 문제 풀이에 활용할 수 있습니다.
-:point_right: 변조된 Android 앱 분석 시 원본 앱과 비교하여 어떤 코드들이 추가 되었는지 빠르게 파악할 수 있습니다.
-:point_right: Android 앱 분석 시 이전 버전과 비교하여 어떤 코드들이 추가 되었는지 확인할 수 있습니다.
-:point_right: 보안 코드 변경 이력 확인 시에도 유용하게 사용할 수 있습니다.
+# 활용처
+:point_right: Android 디지털 포렌식 CTF 문제 풀이에 활용할 수 있습니다.<br>
+:point_right: 변조된 Android 앱 분석 시 원본 앱과 비교하여 어떤 코드들이 추가 되었는지 빠르게 파악할 수 있습니다.<br>
+:point_right: Android 앱 분석 시 이전 버전과 비교하여 어떤 코드들이 추가 되었는지 확인할 수 있습니다.<br>
+:point_right: 보안 코드 변경 이력 확인 시에도 유용하게 사용할 수 있습니다.<br>
 
 # 사용 예제
 1. 기준이 되는 원본 smali 코드들이 위치한 디렉터리와 변경된 smali 코드들이 위치한 디렉터리를 선택해주세요.
