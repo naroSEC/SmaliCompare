@@ -6,5 +6,6 @@
 1. 기준이 되는 원본 smali 코드들이 위치한 디렉터리와 변경된 smali 코드들이 위치한 디렉터리를 선택해주세요.
 <p align="center">
   <img src="https://github.com/naroSEC/Anditer/assets/89144246/b1ba0d6f-4cf0-4bf6-96e5-c30574bd9ad3)https://github.com/naroSEC/Anditer/assets/89144246/b1ba0d6f-4cf0-4bf6-96e5-c30574bd9ad3">
+  <img src="https://github.com/naroSEC/Anditer/assets/89144246/f61d0c3c-abf6-45cd-9092-43a48d24207e">
 </p>
 2. 
